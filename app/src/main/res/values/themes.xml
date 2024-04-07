@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
 
     <style name="Theme.CounterApp" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.UnitConverter" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 741666d5f531318a1e5e769ec80c69d668a6c7fa
 </resources>
