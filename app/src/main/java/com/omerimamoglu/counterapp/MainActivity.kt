@@ -63,12 +63,12 @@ fun TheCounterApp(viewModel: CounterViewModel){
         Spacer(modifier = Modifier.height(16.dp))
         Row (){
             Button(onClick = { viewModel.increment() }) {
-                Text("Increment +")
+                Text("Increment ")
                 
             }
             Button(onClick = { viewModel.decrement() }) {
 
-                Text("Decrement -")
+                Text("Decrement ")
 
 
 
